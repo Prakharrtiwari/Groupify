@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1036989583962",
+    "project_id": "groupifyflutter",
+    "storage_bucket": "groupifyflutter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1036989583962:android:9c473887166f483b63be63",
+        "android_client_info": {
+          "package_name": "com.example.groupify"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1036989583962-na0eva05egvhctnrj0kfbcbg6snhctof.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.groupify",
+            "certificate_hash": "aec45814a1aad013d3c8e9fcf549818e389872dd"
+          }
+        },
+        {
+          "client_id": "1036989583962-qcipavilnk2o8h2o74jedlvr1qhmn303.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvxfCSdAJC_pWSAi3hKj5hw4CCKgXi2B0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1036989583962-qcipavilnk2o8h2o74jedlvr1qhmn303.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
